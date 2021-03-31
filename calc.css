@@ -3,9 +3,7 @@ body {
 }
 
 table {
-    background-color: rgb(8, 8, 8);
     margin: 50px auto;
-    border: 5px outset rgb(70, 4, 4);
 }
 
 td {
